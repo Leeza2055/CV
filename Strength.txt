@@ -1,0 +1,6 @@
+<ol>
+    <li>Hardworking</li>
+    <li>Ability to work in a Team</li>
+    <li>Willingness to Learn</li>
+    <li>Flexible</li>
+</ol>
